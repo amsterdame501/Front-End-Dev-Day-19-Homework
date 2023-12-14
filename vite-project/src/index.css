@@ -1,0 +1,18 @@
+#root {
+  max-width: 100%;
+  margin: 0 auto;
+  padding: 1px;
+  text-align: center;
+}
+.dark-theme {
+  background-color: #333;
+  color: #fff;
+}
+
+.light-theme {
+  background-color: #fff;
+  color: #333;
+}
+
+
+
